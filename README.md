@@ -1,5 +1,4 @@
-# Heya <img width="60" height="40" alt="mascot_transparent" src="https://github.com/user-attachments/assets/06ad304b-8d1d-422c-a8e1-5ea37a4b7eb3" />
- 
-# **YASH**
+#  <img width="150" height="110" alt="Screenshot_2026-07-10_033703" src="https://github.com/user-attachments/assets/f6ddbedd-b400-4325-a0c3-ccd29d7f5a54" />
+# Hola I'm , Yash
 
 
